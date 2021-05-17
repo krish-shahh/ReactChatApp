@@ -1,6 +1,6 @@
 # React Chat Application
 
-React Chat Application is a chat app allows members to interact with each other via message and images.
+React Chat Application is a messaging application allows members to interact with each other via message and images.
 
 ## Features:
 
