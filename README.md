@@ -15,9 +15,9 @@ This app is build using NodeJS, Socket.io, and ChatEngine.io
 
 ## Demo App
 
-Open this link: https://react-chat-app-ga44fmjdx-krish-shahh.vercel.app
-Demo Username: Guest
-Demo Password: Guest123
+1. Open this link: https://react-chat-app-ga44fmjdx-krish-shahh.vercel.app
+2. Demo Username: Guest
+3. Demo Password: Guest123
 
 ## Disclaimer:
 
