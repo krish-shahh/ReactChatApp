@@ -4,8 +4,8 @@ React Chat Application is a chat app allows members to interact with each other 
 
 ## Features:
 
-1. Individual Messages
-2. Group Messages
+1. Individual Messaging
+2. Group Messaging
 3. Customization of Chat Names
 4. Admin Controlled Groups
 5. Image Sending and Recieving
